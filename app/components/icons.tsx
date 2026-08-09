@@ -1,0 +1,28 @@
+"use client";
+
+export {
+  ArrowRight,
+  ArrowSquareOut,
+  CalendarCheck,
+  CaretDown,
+  CaretLeft,
+  CaretRight,
+  Certificate,
+  Clock,
+  CookingPot,
+  DownloadSimple,
+  FacebookLogo,
+  Fire,
+  HandSwipeLeft,
+  Headset,
+  Heart,
+  InstagramLogo,
+  MapPin,
+  Medal,
+  PhoneCall,
+  Star,
+  StarHalf,
+  TiktokLogo,
+  Truck,
+  WhatsappLogo,
+} from "@phosphor-icons/react";
