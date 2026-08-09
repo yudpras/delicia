@@ -24,7 +24,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description:
       "Nasi putih, ayam goreng, sayur capcay, telur balado, dan sambal. Praktis untuk rapat dan syukuran.",
     image:
-      "https://images.unsplash.com/photo-1626082896492-766af4eb65ed?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&v=2",
+      "https://images.unsplash.com/photo-1744957280662-af6472128abd?q=80&w=790&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     imageAlt: "Nasi kotak sederhana untuk rapat kantor",
   },
   {
@@ -74,7 +74,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description:
       "Paket lengkap hidangan utama, 4 jenis lauk pilihan, sup istimewa, salad, dessert, dan minuman.",
     image:
-      "https://images.unsplash.com/photo-1627308595229-7830f5c90683?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&v=2",
+      "https://images.unsplash.com/photo-1722477936580-84aa10762b0b?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     imageAlt: "Prasmanan platinum hidangan premium",
   },
   {
@@ -114,7 +114,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description:
       "Nasi kuning wangi, ayam goreng lengkuas, sambal goreng ati, telur iris, dan perkedel kentang.",
     image:
-      "https://images.unsplash.com/photo-1548943487-a2e4d43b4859?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&v=2",
+      "https://images.unsplash.com/photo-1707999251954-2a4abc6e1f35?q=80&w=980&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     imageAlt: "Nasi tumpeng mini untuk syukuran",
   },
   {
@@ -124,7 +124,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description:
       "Nasi tumpeng lengkap, ayam goreng, sambal goreng ati, telur, tempe bacem, dan urapan segar.",
     image:
-      "https://images.unsplash.com/photo-1541592102775-7c4cac3a3028?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80&v=2",
+      "https://images.unsplash.com/photo-1707999251954-2a4abc6e1f35?q=80&w=980&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     imageAlt: "Tumpeng nasi sepuluh porsi untuk khitanan",
   },
   {
