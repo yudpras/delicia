@@ -24,7 +24,7 @@ export default function CtaSection() {
           id="cta-title"
           className="mb-6 text-3xl font-extrabold text-white sm:text-5xl"
         >
-          Siap Menyukseskan Acara Anda?
+          Kami Siap Menyukseskan Acara Anda
         </h2>
         <p className="mx-auto mb-10 max-w-2xl text-lg font-light text-gray-300">
           Jangan biarkan urusan konsumsi membuat Anda pusing. Serahkan pada ahlinya —
